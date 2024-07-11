@@ -1,0 +1,1 @@
+This directory contains a bunch of logos, in PNG, SVG, and XCF form. Many of them are old ones that I've dug up from the internet. Most of those I've recreated in Inkscape to get better resolution.
